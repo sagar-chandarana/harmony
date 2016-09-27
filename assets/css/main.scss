@@ -116,7 +116,7 @@ h6 {
 
 p {
   line-height: 1.6;
-  @include font-size(14px);
+  @include font-size(16px);
   @include MQ(M) {
     @include font-size(18px);
   }
@@ -207,12 +207,13 @@ header.main-header {
   }
 
   ul {
+    background: rgba(39, 41, 53, .4);
     width: 100%;
     text-align: center;
     padding: 15px;
   }
 
-  ul li {       
+  ul li {
     display: inline-block;
     position:relative;
     color: $base-08;
@@ -230,7 +231,7 @@ header.main-header {
     padding-bottom:5px;
     @include transition(all, .2s);
     @include MQ(M) {
-      @include font-size(20px);
+      @include font-size(18px);
     }
     &:hover, &:focus, &:active {
       border-bottom-color: inherit;
@@ -378,7 +379,7 @@ div.page-content {
   ul {       
     padding: 0 0 1em 0;
     li {
-      @include font-size(14px);
+      @include font-size(16px);
       color: $color-2; 
       line-height: 1.6;
       background: url(./images/bullet.svg);
@@ -389,7 +390,7 @@ div.page-content {
     }
     @include MQ(M){        
       li {         
-        @include font-size(16px);  
+        @include font-size(18px);
         line-height: 1.5;
         background-position: 0 7px; 
       }

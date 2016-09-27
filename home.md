@@ -3,40 +3,40 @@ layout: page
 permalink: /
 ---
 
-# Hi, I am Sagar Chandarana.
+## Hi, I am Sagar Chandarana.
 
-## I believe
+### I believe
 <p></p>
 
-#### that everybody can be __prosperous__, __abundant__, __happy__ and __joyful__.
+##### that everybody can be __prosperous__, __abundant__, __happy__ and __joyful__.
 <p></p>
 
-#### As a living being you should be __respected__, __honored__, __trusted__ and __celebrated__.
+##### As a living being you should be __respected__, __honored__, __trusted__ and __celebrated__.
 <p></p>
 
-#### I believe that __peace__ and __beauty__ is for everybody.
+##### I believe that __peace__ and __beauty__ is for everybody.
 <p></p>
 
-#### You deserve to __travel the world__, find your __purpose__, fulfill your __crazy dreams__, have __time__ _and_ __money__.
+##### You deserve to __travel the world__, find your __purpose__, fulfill your __crazy dreams__, have __time__ _and_ __money__.
 <p></p>
 
-#### No matter how big our problems are, I believe __gratitude__ is all we need.
+##### No matter how big our problems are, I believe __gratitude__ is all we need.
 <p></p>
 
-#### No matter how big your confusions are, I believe you can __achieve clarity__.
+##### No matter how big your confusions are, I believe you can __achieve clarity__.
 <p></p>
 
-#### No matter how big our struggles are, I believe it's __heaven on earth__.
+##### No matter how big our struggles are, I believe it's __heaven on earth__.
 <p></p>
 
-#### No matter how you feel or what you think, about the world or yourself, I believe __bliss__ is always there when you truly _ask for it_.
+##### No matter how you feel or what you think, about the world or yourself, I believe __bliss__ is always there when you truly _ask for it_.
 <p></p>
 
-#### I believe that everybody can __live the life they love__.
+##### I believe that everybody can __live the life they love__.
 
 ---
 
-#### YOU CAN __LIVE THE LIFE YOU LOVE__.
+<h4 style="text-align: center"> YOU CAN <b>LIVE THE LIFE YOU LOVE</b>. </h4>
 
 ---
 
@@ -46,20 +46,16 @@ permalink: /
 
 ---
 
-# How?
+## How?
 
-##### There are three ways I can help.
+##### There are three ways I am trying to help.
 
-### 1. [Workshops](/workshops)
+#### 1. [Workshops](/workshops)
 
-### 2. [Work in Person](/workinperson)
+#### 2. [Work in Person](/workinperson)
 
-### 3. [Online Videos](https://www.youtube.com/channel/{{site.harmony.social.youtube}})
+#### 3. [Online Videos](https://www.youtube.com/channel/{{site.harmony.social.youtube}})
 
----
-
-# Get to know me better
-
-#### Over [here](/about). 
+####  Get to know me better over [here](/about). 
 
 

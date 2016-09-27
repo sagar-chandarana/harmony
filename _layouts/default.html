@@ -7,6 +7,8 @@
   <title>{% if page.title %}{{ page.title }} | {% else %}{% endif %}{{ site.harmony.name }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <!-- Font -->
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu+Mono&subset=latin">
