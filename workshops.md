@@ -4,24 +4,34 @@ title: Workshops
 permalink: /workshops
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+## Workshops
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Inspiration is contagious. In a workshop I bring together the people who are discovering the life they love, and let them talk about the life they dream of. And then, there’s a fountain of inspirations and good energies flowing from each person, inspiring everybody else even more. Conversations about dreams, coupled with some physical exercises and games, a workshop is 3 hours of ultimate fun. People also share the dark side of their lives, and everybody in the room empathizes and heals the wounds. 
+ 
+At the end of the workshop you go home, connected more with your authentic self, confident and believing that living the life you love is truly possible. 
+ 
+Here’s a video from the previous workshop that I did in Belo Horizonte, Brazil.
 
-### Contact me
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/hop2nbblp6E" frameborder="0" allowfullscreen="true"> </iframe>
+</div>
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+<br>
+
+### Upcoming workshops
+
+#### 1. Wednesday - 28th September '16
+
+Price: R$40 <br>
+Time: 19 to 22 hours <br>
+Address: Amadoria, R. Cap. Procópio, 18 - Santa Teresa, Belo Horizonte.
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+#### 2. Wednesday - 19th October '16
+
+Price: R$50 <br>
+Time: 19 to 22 hours <br>
+Address: Casa Imaginária, Rua Cristina, 1261 - Santo Antônio, Belo Horizonte.
+
+
+
