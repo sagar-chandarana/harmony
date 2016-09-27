@@ -1,4 +1,17 @@
-{% if site.harmony.show_disclaimer %}
-	Made by <a href="http://gayan.me" target="_blank">Gayan Virajith</a> For everyone.      
-{% endif %}
-Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+<footer class="main-footer">
+  <div class="wc-container">
+    <div class="column one">
+      <h6>Get in touch</h6>
+      <ul class="menu">
+        <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a></li>
+        <li><a href="{{ '/contact' | prepend: site.baseurl | prepend: site.url }}">Contact</a></li>
+      </ul>
+    </div>
+    <div class="column two">
+      {% include social.html %}
+    </div>
+  </div>
+  <p class="wc-container disclaimer">
+    livethelifeyoulove.in
+  </p>
+</footer>

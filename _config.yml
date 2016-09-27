@@ -1,19 +1,19 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl:
 
 # Site live URL
-url: http://gayan.me
+#url: http://gayan.me
 
 # Localhost 
-# url: http://127.0.0.1:4000  
+url: http://127.0.0.1:4000  
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: Live the life you love
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: Experience freedom, bliss and gratitude.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
@@ -23,28 +23,28 @@ harmony:
    https://github.com/gayanvirajith/harmony
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Sagar Chandarana
+    email: sagarch.mail@gmail.com
+    url: http://livethelifeyoulove.in
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-70094144-2
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest: 
+    twitter: sagarch_tw
+    facebook: livethelifeyoulove.in
+    youtube: UCarTWK96k8JPJL7STuDjnJQ
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
 
 # Conversion / Build settings 
 markdown:    kramdown
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: pygments 
+highlighter: pygments
+
+gems:
+  - jekyll-sitemap
 
 # Permalinks
 permalink:        pretty
