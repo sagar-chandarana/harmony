@@ -3,9 +3,7 @@ layout: page
 permalink: /
 ---
 
-## Hi, I am Sagar Chandarana.
-
-### I believe
+## Hi, I am Sagar Chandarana. I believe
 <p></p>
 
 ##### that everybody can be __prosperous__, __abundant__, __happy__ and __joyful__.
@@ -52,9 +50,9 @@ permalink: /
 
 #### 1. [Workshops](/workshops)
 
-#### 2. [Work in Person](/workinperson)
+#### 2. [Work in Person](/workwithme)
 
-#### 3. [Online Videos](https://www.youtube.com/channel/{{site.harmony.social.youtube}})
+#### 3. [Online Videos](https://www.youtube.com/channel/{{site.harmony.social.youtube}}){:target="_blank"}
 
 ####  Get to know me better over [here](/about). 
 
