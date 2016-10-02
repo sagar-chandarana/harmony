@@ -46,7 +46,7 @@ Yes, blame the society, situation, education system, parents, or politics. But,
 
 ### 5. Help somebody live the life they love
 
-- Now it's your turn. Help somebody that you know, who might be struggling or just discovering the life they love. Pass on the values and lesson.
+- Now it's your turn. Help somebody that you know, who might be struggling or just discovering the life they love. Pass on the values and lessons.
 
 ## Are you ready?
 
