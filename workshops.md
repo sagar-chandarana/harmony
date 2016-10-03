@@ -20,18 +20,15 @@ Here’s a video from the previous workshop that I did in Belo Horizonte, Brazil
 
 ### Upcoming workshops
 
-#### 1. Wednesday - 28th September '16
-
-Price: R$40 <br>
-Time: 19 to 22 hours <br>
-Address: Amadoria, R. Cap. Procópio, 18 - Santa Teresa, Belo Horizonte.
-
-
-#### 2. Wednesday - 19th October '16
+#### 1. Wednesday - 19th October '16
 
 Price: R$50 <br>
 Time: 19 to 22 hours <br>
-Address: Casa Imaginária, Rua Cristina, 1261 - Santo Antônio, Belo Horizonte.
+Address: Casa Imaginária, Rua Cristina, 1261 - Santo Antônio, Belo Horizonte. <br>
+Details: <br>
+Tickets: 
+
+Casa Imaginária: [Facebook](https://www.facebook.com/imaginariacasa){:target="_blank"}, [Website](http://www.casaimaginaria.cc){:target="_blank"}
 
 
 
