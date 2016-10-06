@@ -3,6 +3,8 @@ layout: page
 permalink: /
 ---
 
+> Quick update: The upcoming workshop is ["Sonhe mais, muito mais: Vol - III do workshop 'Viva a vida que você ama'"](http://livethelifeyoulove.in/workshops#upcoming-workshops).
+
 ## Hi, I am Sagar Chandarana. I believe
 <p></p>
 

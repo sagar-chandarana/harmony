@@ -20,15 +20,13 @@ Here’s a video from the previous workshop that I did in Belo Horizonte, Brazil
 
 ### Upcoming workshops
 
-#### 1. Wednesday - 19th October '16
+#### 1. Sonhe mais, muito mais: Vol - III do workshop "Viva a vida que você ama"
 
+Date and Time: Wed, 19th Oct. 19 to 22 hours <br> 
 Price: R$50 <br>
-Time: 19 to 22 hours <br>
 Address: Casa Imaginária, Rua Cristina, 1261 - Santo Antônio, Belo Horizonte. <br>
-Details: <br>
-Tickets: 
-
-Casa Imaginária: [Facebook](https://www.facebook.com/imaginariacasa){:target="_blank"}, [Website](http://www.casaimaginaria.cc){:target="_blank"}
+Details and Tickets: [On Sympla](https://www.sympla.com.br/sonhe-mais-muito-mais-vol---iii-do-workshop-viva-a-vida-que-voce-ama__94003){:target="_blank"}
+About Casa Imaginária: [Facebook](https://www.facebook.com/imaginariacasa){:target="_blank"}, [Website](http://www.casaimaginaria.cc){:target="_blank"}
 
 
 
