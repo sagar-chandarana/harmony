@@ -25,7 +25,7 @@ Here’s a video from the previous workshop that I did in Belo Horizonte, Brazil
 Date and Time: Wed, 19th Oct. 19 to 22 hours <br> 
 Price: R$50 <br>
 Address: Casa Imaginária, Rua Cristina, 1261 - Santo Antônio, Belo Horizonte. <br>
-Details and Tickets: [On Sympla](https://www.sympla.com.br/sonhe-mais-muito-mais-vol---iii-do-workshop-viva-a-vida-que-voce-ama__94003){:target="_blank"}
+Details and Tickets: [On Sympla](https://www.sympla.com.br/sonhe-mais-muito-mais-vol---iii-do-workshop-viva-a-vida-que-voce-ama__94003){:target="_blank"} <br>
 About Casa Imaginária: [Facebook](https://www.facebook.com/imaginariacasa){:target="_blank"}, [Website](http://www.casaimaginaria.cc){:target="_blank"}
 
 
