@@ -754,6 +754,31 @@ tbody tr:nth-child(odd) th {
   background-color: $base-05;
 }
 
+/* Contact Form */
+
+#contact-area {
+  width: 100%;
+}
+
+#contact-area input, #contact-area textarea {
+  padding: 5px;
+  width: 100%;
+  font-size: 1em;
+  margin: 0px 0px 10px 0px;
+  border: 2px solid #ccc;
+}
+
+#contact-area textarea {
+  height: 100px;
+}
+
+#contact-area input[type=submit] {
+  width: 20%;
+  float: center;
+  color: #fff;
+  background-color: #555;
+  cursor: pointer;
+}
 
 /* Videos */
 
