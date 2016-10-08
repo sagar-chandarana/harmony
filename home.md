@@ -48,7 +48,7 @@ permalink: /
 
 ## How?
 
-##### There are three ways I am trying to help.
+##### There are three ways I can help.
 
 #### 1. [Workshops](/workshops)
 
@@ -56,6 +56,14 @@ permalink: /
 
 #### 3. [Online Videos](https://www.youtube.com/channel/{{site.harmony.social.youtube}}){:target="_blank"}
 
-####  Get to know me better over [here](/about). 
+---
 
+## Testimonials
 
+> "I feel now I know what is the direction torwards which I'm aiming. Now I can more easily classify my actions as either helping or hindering me from reaching my goal."  
+- Marcelo Menegali, Belo Horizonte.
+
+> "There were some peak moments in the workshop which made me realize that I can dream anything I want, even though it may not seem rational in the moment. I am going after all my dreams!"  
+- Flávia Belisário, Belo Horizonte.
+
+#####  Get to know me better over [here](/about).

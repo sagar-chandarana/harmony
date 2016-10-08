@@ -15,8 +15,15 @@ Here’s a video from the previous workshop that I did in Belo Horizonte, Brazil
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/hop2nbblp6E" frameborder="0" allowfullscreen="true"> </iframe>
 </div>
-
 <br>
+
+### Testimonials
+
+> "I feel now I know what is the direction torwards which I'm aiming. Now I can more easily classify my actions as either helping or hindering me from reaching my goal."  
+- Marcelo Menegali, Belo Horizonte.
+
+> "There were some peak moments in the workshop which made me realize that I can dream anything I want, even though it may not seem rational in the moment. I am going after all my dreams!"  
+- Flávia Belisário, Belo Horizonte.
 
 ### Upcoming workshops
 
