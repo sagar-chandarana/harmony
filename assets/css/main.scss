@@ -775,8 +775,8 @@ tbody tr:nth-child(odd) th {
 #contact-area input[type=submit] {
   width: 20%;
   float: center;
-  color: #fff;
-  background-color: #555;
+  background-color: $base-01;
+  color: $base-07;
   cursor: pointer;
 }
 
